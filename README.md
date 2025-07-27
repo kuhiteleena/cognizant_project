@@ -59,29 +59,27 @@ This repository contains my project submission for the **Cognizant Artificial In
 
 ---
 
-## 🧠 System Architecture
+## 📂 Repository Structure
 
 cognizant_project/
 ├── Task1_EDA/
-│   └── eda_analysis.ipynb            # Your Python/Colab notebook for Task 1
+│ └── eda_analysis.ipynb # Python/Colab notebook for Task 1 (EDA)
 ├── Task2_Data_Modeling/
-│   ├── data_model_diagram.png        # Image of your schema (ERD)
-│   └── data_modeling_notes.md        # Explanation of schema/relationships
+│ ├── data_model_diagram.png # Data model schema (ERD)
+│ └── data_modeling_notes.md # Notes on table relationships and joins
 ├── Task3_Presentation/
-│   └── schema_presentation.pptx      # Task 3 presentation slides
+│ └── schema_presentation.pptx # Final task presentation slides
 ├── data/
-│   └── sample_sales_data.csv         # Sample dataset used for EDA
+│ └── sample_sales_data.csv # Dataset used for analysis
 ├── docs/
-│   └── README_assets/                # Optional: put charts, screenshots, etc.
+│ └── README_assets/ # Optional: charts, screenshots, references
 ├── .gitignore
 ├── LICENSE
-└── README.md                         # Your main project description
+└── README.md # Project overview and task breakdown
 
 
 
 ---
-
-## 📂 Repository Structure
 
 ## 🚀 How to View
 
