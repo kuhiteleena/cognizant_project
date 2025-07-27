@@ -61,16 +61,22 @@ This repository contains my project submission for the **Cognizant Artificial In
 
 ## 🧠 System Architecture
 
-Client (Analyst Environment)
-├── Google Colab – Python Notebooks
-├── CSV Uploads – Sales + IoT sensor data
+cognizant_project/
+├── Task1_EDA/
+│   └── eda_analysis.ipynb            # Your Python/Colab notebook for Task 1
+├── Task2_Data_Modeling/
+│   ├── data_model_diagram.png        # Image of your schema (ERD)
+│   └── data_modeling_notes.md        # Explanation of schema/relationships
+├── Task3_Presentation/
+│   └── schema_presentation.pptx      # Task 3 presentation slides
+├── data/
+│   └── sample_sales_data.csv         # Sample dataset used for EDA
+├── docs/
+│   └── README_assets/                # Optional: put charts, screenshots, etc.
+├── .gitignore
+├── LICENSE
+└── README.md                         # Your main project description
 
-Processing
-├── EDA Scripts – Descriptive stats, correlation, histograms
-├── Data Modeling – Entity design, schema planning
-
-Output
-└── Business Insights – Trends, relationships, recommendations
 
 
 ---
