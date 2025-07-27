@@ -86,12 +86,12 @@ Output
 2. Open the notebooks or docs related to each task.
 3. Optionally, launch notebooks in Google Colab for interactive execution.
 
-👤 Author
+## 👤 Author
 Leena Kuhite
 BCA Graduate | Aspiring Data Scientist
 LinkedIn • GitHub
 
-🔖 License
+## 🔖 License
 This project is released under the MIT License – free for personal & commercial use with attribution.
 
 ⭐ Give the repo a star if you found this project useful or inspiring!
